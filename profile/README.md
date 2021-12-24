@@ -6,3 +6,5 @@ CalinixOS is a power-user-friendly GNU/Linux distribution based on the independe
 - [Website](https://get.calinix.tech/)
 - [Wiki](https://wiki.calinix.tech)
 - [Torrent](https://fosstorrents.com/distributions/calinix-os/)
+
+![OIN_member_stacked](https://user-images.githubusercontent.com/64682801/147327093-0cac60af-8286-4d1b-a81f-dc30659ee17a.png)
